@@ -1,0 +1,1 @@
+By using an appropriately formatted Jira issue key it is possible to link issues in Jira with branches and commits in Github. Obviously integration has to be enabled on both sides. How to do this is beyond the scope of tis little test, but it is SUPER easy..:-)
